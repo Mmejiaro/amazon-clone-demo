@@ -1,7 +1,6 @@
 import React from 'react';
 import "./Subtotal.css";
 import CurrenyFormat from "react-currency-format";
-import ShoppingBasket from '@material-ui/icons/ShoppingBasket';
 
 function Subtotal() {
     return (
